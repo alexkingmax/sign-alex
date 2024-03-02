@@ -1,0 +1,26 @@
+{
+  "name": "sign-alex",
+  "version": "1.0.0",
+  "description": "A library that helps you calculate the difference of any two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexkingmax/sign-alex"
+  },
+  "homepage": "https://github.com/alexking",
+  "keywords": [
+    "sign",
+    "add",
+    "sign",
+    "apart"
+  ],
+  "author": "alexkingmax",
+  "license": "MIT"
+}
